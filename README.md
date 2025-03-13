@@ -1,33 +1,35 @@
+# Module 5
+
 ## Before Optimization
 all-student request, all-student-name, and highest-gpa request.
 
 ### View Result Tree 
 
-![messageImage_1741890515225.jpg](../Downloads/messageImage_1741890515225.jpg)
+![messageImage_1741890515225.jpg](messageImage_1741890515225.jpg)
 
-![messageImage_1741890481986.jpg](../Downloads/messageImage_1741890481986.jpg)
+![messageImage_1741890481986.jpg](messageImage_1741890481986.jpg)
 
 ### View Result Table
 
-![messageImage_1741890534152.jpg](../Downloads/messageImage_1741890534152.jpg)
+![messageImage_1741890534152.jpg](messageImage_1741890534152.jpg)
 
-![messageImage_1741890581738.jpg](../Downloads/messageImage_1741890581738.jpg)
+![messageImage_1741890581738.jpg](messageImage_1741890581738.jpg)
 
 ### Graph Results
 
-![messageImage_1741890621432.jpg](../Downloads/messageImage_1741890621432.jpg)
+![messageImage_1741890621432.jpg](messageImage_1741890621432.jpg)
 
 ### Summary Report
 
-![messageImage_1741890635934.jpg](../Downloads/messageImage_1741890635934.jpg)
+![messageImage_1741890635934.jpg](messageImage_1741890635934.jpg)
 
 ### Command Line
 
-![messageImage_1741891997771.jpg](../Downloads/messageImage_1741891997771.jpg)
+![messageImage_1741891997771.jpg](messageImage_1741891997771.jpg)
 
 ### Log File Results
 
-![messageImage_1741892061893.jpg](../Downloads/messageImage_1741892061893.jpg)
+![messageImage_1741892061893.jpg](messageImage_1741892061893.jpg)
 
 ## After Optimization
 all-student request, all-student-name, and highest-gpa request.
@@ -35,30 +37,33 @@ all-student request, all-student-name, and highest-gpa request.
 
 ### View Result Table
 
-![messageImage_1741896454001.jpg](../Downloads/messageImage_1741896454001.jpg)
+![messageImage_1741896454001.jpg](messageImage_1741896454001.jpg)
 
-![messageImage_1741896502325.jpg](../Downloads/messageImage_1741896502325.jpg)
+![messageImage_1741896502325.jpg](messageImage_1741896502325.jpg)
 
 ### Command Line
 
-![messageImage_1741896766041.jpg](../Downloads/messageImage_1741896766041.jpg)
+![messageImage_1741896766041.jpg](messageImage_1741896766041.jpg)
 
 ### Log File Results
 
-![messageImage_1741896745882.jpg](../Downloads/messageImage_1741896745882.jpg)
+![messageImage_1741896745882.jpg](messageImage_1741896745882.jpg)
 
 ## Conclusion
-- all-student
+- **all-student**
 
-    Before optimization, the sample time to process the request was approximately 98,000ms. After optimization, the sample time decreased to approximately 6,700ms. This resulted in a speedup of over 1300%.
+    **Before optimization**, the sample time to process the request was approximately 98,000ms.
+    **After optimization**, the sample time decreased to approximately 6,700ms. This resulted in a speedup of over 1300%.
 
-- all-student-name
+- **all-student-name**
 
-    Before optimization, the sample time to process the request was approximately 2,800ms. After optimization, the sample time decreased to approximately 300ms. This resulted in a speedup of over 833%.
+    **Before optimization**, the sample time to process the request was approximately 2,800ms. 
+    **After optimization**, the sample time decreased to approximately 300ms. This resulted in a speedup of over 833%.
 
-- highest-gpa
+- **highest-gpa**
 
-    Before optimization, the sample time to process the request was approximately 558ms. After optimization, the sample time decreased to approximately 60ms. This resulted in a speedup of over 830%.
+    **Before optimization**, the sample time to process the request was approximately 558ms.
+    **After optimization**, the sample time decreased to approximately 60ms. This resulted in a speedup of over 830%.
 
 
 ## Reflection
